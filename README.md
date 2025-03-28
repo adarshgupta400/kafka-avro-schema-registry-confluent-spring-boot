@@ -2,6 +2,8 @@
 # Getting Started
 ## ✨ _Spring Boot 3 + Kafka + Schema Registry and Avro_ ✨
 
+ref- Spring Boot | Kafka Schema Registry & Avro with Practical Example and Implementation | #JavaTechie - https://www.youtube.com/watch?v=u0kRK-qbopk&t=2698s
+
 ### Overview
 
 As the usage of enterprise message producers, brokers, and consumers grows, ensuring that data or payloads are compliant with a known schema becomes crucial for several reasons:
@@ -105,3 +107,14 @@ By focusing on schema compliance, enterprises can maintain data quality, reduce 
    ]
 
    ```
+
+
+
+http://localhost:8181/events
+
+![image](https://github.com/user-attachments/assets/a1ebbf94-465f-48c8-8599-429b2001e4cd)
+![image](https://github.com/user-attachments/assets/5fccc550-7b62-4b34-a167-775eb29dae74)
+![image](https://github.com/user-attachments/assets/cb2e5513-3a9b-4a22-8b52-e43e465eab87)
+![image](https://github.com/user-attachments/assets/cbb1b2a9-ad9c-46a4-aa20-5d4f5d238cc9)
+
+
